@@ -80,7 +80,7 @@ Open issues or PRs for improvements, new model/feature support, or integrating m
 
 ## 📄 License
 
-[MIT](LICENSE) © 2025 Chillara Bhavya
+[MIT](LICENSE) © 2025 
 
 ---
 
